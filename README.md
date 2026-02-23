@@ -22,5 +22,7 @@ Superstore Dashboard (Tableau Public):
 
 ## Dataset
 Superstore sample dataset used for analysis.
+
+
 <img width="1470" height="956" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/20ead3bf-e6fc-4b00-bfdc-ae480402ddde" />
 
